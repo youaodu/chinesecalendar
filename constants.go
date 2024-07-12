@@ -5,7 +5,7 @@ package chinesecalendar
 
 import (
 	"time"
-	. "github.com/youao/chinesecalendar/internal"
+	. "github.com/youaodu/chinesecalendar/internal"
 )
 
 var (

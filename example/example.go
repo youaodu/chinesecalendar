@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/youao/chinesecalendar"
+	"github.com/youaodu/chinesecalendar"
 )
 
 func main() {

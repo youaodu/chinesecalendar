@@ -1,4 +1,4 @@
-module github.com/youao/chinesecalendar
+module github.com/youaodu/chinesecalendar
 
 go 1.16
 

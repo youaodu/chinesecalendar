@@ -5,7 +5,7 @@
 
 ## 使用
 ``` go
-$ go get github.com/youao/chinesecalendar
+$ go get github.com/youaodu/chinesecalendar
 ```
 
 copy from [chinese-calendar](https://github.com/LKI/chinese-calendar)
