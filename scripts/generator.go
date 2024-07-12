@@ -10,8 +10,8 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/wangzeping722/chinesecalendar"
-	. "github.com/wangzeping722/chinesecalendar/internal"
+	"github.com/youao/chinesecalendar"
+	. "github.com/youao/chinesecalendar/internal"
 )
 
 const dateTypeWorkday = 1
@@ -644,7 +644,7 @@ package chinesecalendar
 
 import (
 	"time"
-	. "github.com/wangzeping722/chinesecalendar/internal"
+	. "github.com/youao/chinesecalendar/internal"
 )
 
 var (
